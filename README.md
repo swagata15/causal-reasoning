@@ -13,6 +13,7 @@ Welcome to the GitHub repository for the paper titled "Cause and Effect: Can Lar
 
 ## Citation
 If you use this code in your research, please cite the paper:
+
 `@inproceedings{ashwani2024cause,
   title={Cause and effect: Can large language models truly understand causality?},
   author={Ashwani, Swagata and Hegde, Kshiteesh and Mannuru, Nishith Reddy and Sengar, Dushyant Singh and Jindal, Mayank and Kathala, Krishna Chaitanya Rao and Banga, Dishant and Jain, Vinija and Chadha, Aman},
