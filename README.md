@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for the paper titled "Cause and Effect: Can Large Language Models Truly Understand Causality?" This repository contains all the code utilized in the research study.
 
+The paper was presented at the AI Trustworthiness and Risk Assessment for Challenging Contexts (ATRACC) symposium as part of the 2024 AAAI Fall Symposium Series in November 2024. The full text of the paper can be accessed on AAAI's [website](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31764/33931) while the presentation deck can be found [here](https://hegde.ai/projects/causal/).
+
 ## Usage
 1. Clone the repository:
 ```bash
